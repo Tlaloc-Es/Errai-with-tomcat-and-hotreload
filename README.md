@@ -13,7 +13,7 @@ Install the original project
 
 You must clone and install the original project on your local Maven repository
 
-	% git clone https://github.com/errai/errai-tutorial
+	% git clone https://github.com/Tlaloc-Es/errai-tutorial.git --single-branch --branch develop
 	
 	% cd errai-tutorial
 		
@@ -22,7 +22,7 @@ You must clone and install the original project on your local Maven repository
 Run on Tomcat
 -------------
 
-	% git clone https://github.com/stbland/errai-tutorial-tomcat.git
+	% git clone https://github.com/Tlaloc-Es/errai-tutorial-tomcat.git --single-branch --branch develop
 	
 	% cd errai-tutorial-tomcat
 	
