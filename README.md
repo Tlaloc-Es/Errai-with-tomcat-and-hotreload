@@ -1,4 +1,4 @@
-# errai-tutorial-tomcat
+# Errai-with-tomcat-and-hotreload
 
 Errai tutorial project that running on Tomcat server
 
@@ -30,3 +30,8 @@ Run on Tomcat
 	
 	% open http://localhost:8080/errai-tutorial/ in your web brower
 	
+Run app with hotreload
+----------------------
+	% mvn gwt:compile
+
+	% mvn gwt:run
